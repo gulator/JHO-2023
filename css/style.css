@@ -1,0 +1,145 @@
+*{
+    font-family: 'Red Hat Display', sans-serif;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 15px;
+    
+}
+a{
+    text-decoration: none;
+    color: #fafafa;
+}
+header{
+    height: 100px;
+    background-color: #04041a;
+}
+th{
+    text-align: left;
+}
+.standings-container{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+.azul{    
+    box-shadow: 0px 5px 10px #cecece;
+    margin-bottom: 15px;
+}
+.tabla{
+    width: 90%;
+    border-collapse: collapse;
+}
+.tabla tr{
+    height: 30px;
+}
+.tabla tr:nth-child(even){
+    background-color: #e6e6e6;
+}
+.tabla th{
+    font-weight: 400;
+    color: #fafafa;
+    background-color: #04041a;
+    border: 0px;
+}
+.after-header{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e6e6e6;
+    color: #04041a;
+    box-shadow: 0px 5px 10px #cecece;
+}
+.after-header h1{
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.centrado {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+footer{
+    width: 100vw;
+    height: 70px;
+    position: relative;
+    bottom: 0;
+    background-color: #04041a;
+}  
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+.navbar{
+    display: flex;
+    color: #fafafa;
+}
+.navbar li, a{
+    margin: 0px 5px;
+    transition: ease-in-out;
+    transition-duration: 350ms;
+    cursor: pointer;
+}
+
+.navbar li:hover, a:hover{
+    color: orangered;
+}
+
+#main-logo{
+    height: 80px;
+}
+
+.section-fecha{
+    width: 100vw;
+}
+.section-fecha h3{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.section-fecha p{
+    font-size: 10px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.container-fecha{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;    
+}
+.container-match{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: 15px 0px;
+    border-bottom: 1px solid #e6e6e6;
+}
+.container-match p{
+    margin-bottom: 0 ;
+}
+.match{
+    text-align: center;
+    
+}
+tr{
+    height: 30px;
+}
+.team{
+    width: 30vw;    
+
+}
+.score{
+    border-radius: 5px;
+    width: 5vw;
+    max-width: 30px;
+    height: 30px;
+    background-color: #e6e6e6;
+}
+
