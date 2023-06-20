@@ -23,7 +23,7 @@ fetch("partidos.json")
         </tr>
         </table>
         <p>${time} hs</p>
-        <p>veedor: ${viewer}</p>`;
+        <p class="viewer">veedor: ${viewer}</p>`;
         elemento.append(newElemento)
       });
       principal.append(elemento)

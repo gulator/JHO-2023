@@ -53,6 +53,12 @@ th{
     color: #04041a;
     box-shadow: 0px 5px 10px #cecece;
 }
+#main{
+    margin-top: 20px;
+}
+.viewer{
+    margin-bottom: 10px !important;
+}
 .after-header h1{
     font-size: 20px;
     font-weight: 800;
@@ -98,10 +104,11 @@ footer{
 .section-fecha{
     width: 100vw;
 }
-.section-fecha h3{
+.container-fecha h3{
     font-size: 20px;
     text-transform: uppercase;
     margin-bottom: 10px;
+    margin-top: 10px
 }
 .section-fecha p{
     font-size: 10px;
