@@ -150,3 +150,9 @@ tr{
     background-color: #e6e6e6;
 }
 
+@media (max-width: 500px) {
+    *{
+        font-size: 12px;
+
+    }
+}
