@@ -8,7 +8,10 @@ fetch("partidos.json")
       const day = Object.keys(item)[0];
       const matches = item[day];
       const date = item.date;
-      elemento.innerHTML = `<h3>${date}</h3>`;
+      elemento.innerHTML = `
+      <div class="center-date">
+      <h3>${date}</h3>
+      </div>`;
 
       matches.forEach((match) => {
         const { teamA, teamB, time, viewer } = match;
