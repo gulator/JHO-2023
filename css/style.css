@@ -138,6 +138,7 @@ footer{
     border-bottom: 1px solid #e6e6e6;
 }
 .container-match p{
+    font-size: 12px;
     margin-bottom: 0 ;
 }
 .match{
