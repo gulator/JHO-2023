@@ -20,7 +20,7 @@
                 "viewer": "Rejunte FC"
             }
         ],
-        "date": "Martes 27 de Junio"
+        "date": "Martes 04 de Julio"
     },
     {
         "schedule": [
@@ -37,7 +37,7 @@
                 "viewer": "Whiscola F.C.C."
             }
         ],
-        "date": "Jueves 29 de Junio"
+        "date": "Jueves 06 de Julio"
     },
     {
         "schedule": [
@@ -58,46 +58,6 @@
                 "teamB": "La Naranja Geriatrica",
                 "time": "21:40",
                 "viewer": "Sala Azul Remix"
-            }
-        ],
-        "date": "Martes 4 de JuLio"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "Rejunte FC",
-                "teamB": "Pablo & Los Sextos",
-                "time": "20:00",
-                "viewer": "Carlinga"
-            },
-            {
-                "teamA": "Los PapiFootball",
-                "teamB": "Carlinga",
-                "time": "20:50",
-                "viewer": "Rejunte FC"
-            }
-        ],
-        "date": "Jueves 6 de JuLio"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "Los PapiFootball",
-                "teamB": "Rejunte FC",
-                "time": "20:00",
-                "viewer": "Pablo & Los Sextos"
-            },
-            {
-                "teamA": "Whiscola F.C.C.",
-                "teamB": "Pablo & Los Sextos",
-                "time": "20:50",
-                "viewer": "Los PapiFootball"
-            },
-            {
-                "teamA": "La Scaloneta",
-                "teamB": "Carlinga",
-                "time": "21:40",
-                "viewer": "Whiscola F.C.C."
             }
         ],
         "date": "Martes 11 de JuLio"
@@ -105,16 +65,16 @@
     {
         "schedule": [
             {
-                "teamA": "Sala Azul Remix",
-                "teamB": "La Naranja Geriatrica",
+                "teamA": "Rejunte FC",
+                "teamB": "Pablo & Los Sextos",
                 "time": "20:00",
-                "viewer": "Los Suplentes"
+                "viewer": "Carlinga"
             },
             {
-                "teamA": "Farola FC",
-                "teamB": "Los Suplentes",
+                "teamA": "Los PapiFootball",
+                "teamB": "Carlinga",
                 "time": "20:50",
-                "viewer": "Sala Azul Remix"
+                "viewer": "Rejunte FC"
             }
         ],
         "date": "Jueves 13 de JuLio"
@@ -122,6 +82,46 @@
     {
         "schedule": [
             {
+                "teamA": "Los PapiFootball",
+                "teamB": "Rejunte FC",
+                "time": "20:00",
+                "viewer": "Pablo & Los Sextos"
+            },
+            {
+                "teamA": "Whiscola F.C.C.",
+                "teamB": "Pablo & Los Sextos",
+                "time": "20:50",
+                "viewer": "Los PapiFootball"
+            },
+            {
+                "teamA": "La Scaloneta",
+                "teamB": "Carlinga",
+                "time": "21:40",
+                "viewer": "Whiscola F.C.C."
+            }
+        ],
+        "date": "Martes 01 de Agosto"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Sala Azul Remix",
+                "teamB": "La Naranja Geriatrica",
+                "time": "20:00",
+                "viewer": "Los Suplentes"
+            },
+            {
+                "teamA": "Farola FC",
+                "teamB": "Los Suplentes",
+                "time": "20:50",
+                "viewer": "Sala Azul Remix"
+            }
+        ],
+        "date": "Jueves 03 de Agosto"
+    },
+    {
+        "schedule": [
+            {
                 "teamA": "Farola FC",
                 "teamB": "Carlinga",
                 "time": "20:00",
@@ -140,7 +140,7 @@
                 "viewer": "All Inclusive F.C."
             }
         ],
-        "date": "Martes 01 de Agosto"
+        "date": "Martes 08 de Agosto"
     },
     {
         "schedule": [
@@ -157,7 +157,7 @@
                 "viewer": "Whiscola F.C.C."
             }
         ],
-        "date": "Jueves 03 de Agosto"
+        "date": "Jueves 10 de Agosto"
     },
     {
         "schedule": [
@@ -180,7 +180,7 @@
                 "viewer": "Sala Azul Remix"
             }
         ],
-        "date": "Martes 08 de Agosto"
+        "date": "Martes 15 de Agosto"
     },
     {
         "schedule": [
@@ -197,7 +197,7 @@
                 "viewer": "All Inclusive F.C."
             }
         ],
-        "date": "Jueves 10 de Agosto"
+        "date": "Jueves 17 de Agosto"
     },
     {
         "schedule": [
@@ -220,7 +220,7 @@
                 "viewer": "La Naranja Geriatrica"
             }
         ],
-        "date": "Martes 15 de Agosto"
+        "date": "Martes 22 de Agosto"
     },
     {
         "schedule": [
@@ -237,7 +237,7 @@
                 "viewer": "La Scaloneta"
             }
         ],
-        "date": "Jueves 17 de Agosto"
+        "date": "Jueves 24 de Agosto"
     },
     {
         "schedule": [
@@ -260,7 +260,7 @@
                 "viewer": "All Inclusive F.C."
             }
         ],
-        "date": "Martes 22 de Agosto"
+        "date": "Martes 29 de Agosto"
     },
     {
         "schedule": [
@@ -277,7 +277,7 @@
                 "viewer": "La Naranja Geriatrica"
             }
         ],
-        "date": "Jueves 24 de Agosto"
+        "date": "Jueves 31 de Agosto"
     },
     {
         "schedule": [
@@ -300,7 +300,7 @@
                 "viewer": "Pablo & Los Sextos"
             }
         ],
-        "date": "Martes 29 de Agosto"
+        "date": "Martes 05 de Septiembre"
     },
     {
         "schedule": [
@@ -317,7 +317,7 @@
                 "viewer": "Farola FC"
             }
         ],
-        "date": "Jueves 31 de Agosto"
+        "date": "Jueves 07 de Septiembre"
     },
     {
         "schedule": [
@@ -340,7 +340,7 @@
                 "viewer": "La Naranja Geriatrica"
             }
         ],
-        "date": "Martes 05 de Septiembre"
+        "date": "Martes 12 de Septiembre"
     },
     {
         "schedule": [
@@ -357,7 +357,7 @@
                 "viewer": "Pablo & Los Sextos"
             }
         ],
-        "date": "Jueves 07 de Septiembre"
+        "date": "Jueves 14 de Septiembre"
     },
     {
         "schedule": [
@@ -380,7 +380,7 @@
                 "viewer": "Los PapiFootball"
             }
         ],
-        "date": "Martes 12 de Septiembre"
+        "date": "Martes 19 de Septiembre"
     },
     {
         "schedule": [
@@ -397,7 +397,7 @@
                 "viewer": "Los Suplentes"
             }
         ],
-        "date": "Jueves 14 de Septiembre"
+        "date": "Jueves 21 de Septiembre"
     },
     {
         "schedule": [
@@ -420,7 +420,7 @@
                 "viewer": "Pablo & Los Sextos"
             }
         ],
-        "date": "Martes 19 de Septiembre"
+        "date": "Martes 26 de Septiembre"
     },
     {
         "schedule": [
@@ -437,6 +437,6 @@
                 "viewer": "Los PapiFootball"
             }
         ],
-        "date": "Jueves 21 de Septiembre"
+        "date": "Jueves 28 de Septiembre"
     }
 ]
