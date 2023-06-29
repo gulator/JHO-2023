@@ -11,7 +11,7 @@ fetch('positions.json')
         let elemento = document.createElement("tr")
         elemento.innerHTML = `
         <td class="centrado" scope="row">${posicion}</td>
-                        <td>${equipo.team}</td>
+                        <td><p><img class="camiseta" src=${equipo.img} alt="camiseta">${equipo.team}</p></td>
                         <td class="centrado"><strong>${equipo.pts}</strong></td>
                         <td class="centrado">${equipo.dg}</td>
                         <td class="centrado">${equipo.pj}</td>
