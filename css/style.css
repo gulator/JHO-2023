@@ -164,7 +164,11 @@ tr{
 .camiseta{
     height: 25px;
     margin-right: 10px;
+    margin-left: 10px;
     vertical-align: middle;
+}
+.partido{
+    height: 40px;
 }
 
 @media (max-width: 500px) {
