@@ -27,7 +27,7 @@ fetch("partidos.json")
       };
 
       matches.forEach((match) => {
-        const { teamA, teamB, time, viewer } = match;
+        const { teamA, teamB, time, viewer, scoreA, scoreB } = match;
         let newElemento = document.createElement("div");
         newElemento.classList = "container-match";
         let imgA = imagenes[`${teamA}`];
@@ -35,8 +35,8 @@ fetch("partidos.json")
         newElemento.innerHTML = `<table class="match">
         <tr>
             <td class="team"><img class="camiseta partido" src=${imgA} alt="camiseta">${teamA}</td>
-            <td class="score"></td>
-            <td class="score"></td>
+            <td class="score">${scoreA}</td>
+            <td class="score">${scoreB}</td>
             <td class="team">${teamB}<img class="camiseta partido" src=${imgB} alt="camiseta"></td>
         </tr>
         </table>
