@@ -15,9 +15,9 @@ fetch("partidos.json")
       const imagenes = {
         "La Naranja Geriatrica": "./img/LNG.webp",
         "Carlinga": "./img/carlinga.webp",
-        "Pablo & Los Sextos": "./img/generica.webp",
-        "Rejunte FC": "./img/generica.webp",
-        "Los PapiFootball": "./img/generica.webp",
+        "Pablo & Los Sextos": "./img/sextos.webp",
+        "Rejunte FC": "./img/rejunte.webp",
+        "Los PapiFootball": "./img/papifootball.webp",
         "Los Suplentes": "./img/suplentes.webp",
         "Whiscola F.C.C.": "./img/whiscola.webp",
         "All Inclusive F.C.": "./img/inclusive.webp",
