@@ -1,5 +1,33 @@
 [
-    
+    {
+        "schedule": [
+            {
+                "teamA": "Carlinga",
+                "scoreA": 0 ,
+                "scoreB":7,            
+                "teamB": "Pablo & Los Sextos",
+                "time": "20:00",
+                "viewer": "La Naranja Geriatrica"
+            },
+            {
+                "teamA": "Rejunte FC",
+                "scoreA": 4 ,
+                "scoreB":5, 
+                "teamB": "La Naranja Geriatrica",
+                "time": "20:50",
+                "viewer": "Carlinga"
+            },
+            {
+                "teamA": "Los PapiFootball",
+                "scoreA": 2,
+                "scoreB":8, 
+                "teamB": "Los Suplentes",
+                "time": "21:40",
+                "viewer": "Rejunte FC"
+            }
+        ],
+        "date": "Martes 04 de Julio"
+    },
     {
         "schedule": [
             {

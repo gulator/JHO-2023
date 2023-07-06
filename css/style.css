@@ -6,6 +6,7 @@
     font-size: 15px;
     
 }
+
 a{
     text-decoration: none;
     color: #fafafa;
@@ -72,11 +73,14 @@ th{
 
 footer{
     width: 100vw;
-    height: 70px;
-    position: relative;
+    height: 50px;
+    position: sticky;
     bottom: 0;
     background-color: #04041a;
-}  
+}
+.resultados-first{
+    position: fixed;
+}
 .nav-container{
     display: flex;
     justify-content: space-around;
@@ -138,15 +142,29 @@ footer{
     margin: 15px 0px;
     border-bottom: 1px solid #e6e6e6;
 }
+.resultados-container-match{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: 15px 0px;
+    border-bottom: 1px solid #e6e6e6;
+}
+.tr-resultados{
+    margin-bottom: 5px;
+}
 .container-match p{
     font-size: 12px;
     margin-bottom: 0 ;
 }
 
 .match{
-    text-align: center;
-    
+    text-align: center;    
 }
+.match-resultado{
+    text-align: center;
+    margin-bottom: 15px !important;
+}
+
 tr{
     height: 30px;
 }
