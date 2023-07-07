@@ -18,6 +18,22 @@
                 "scoreA": 2,
                 "scoreB": 8,
                 "teamB": "Los Suplentes"
+            },
+            {
+                "teamA": "Whiscola F.C.C.",
+                "scoreA": "3",
+                "scoreB":"4", 
+                "teamB": "All Inclusive F.C.",
+                "time": "20:00",
+                "viewer": "Farola FC"
+            },
+            {
+                "teamA": "La Scaloneta",
+                "scoreA": "1",
+                "scoreB":"3",
+                "teamB": "Farola FC",
+                "time": "20:50",
+                "viewer": "Whiscola F.C.C."
             }
         ],
         "date": "Fecha 1"
