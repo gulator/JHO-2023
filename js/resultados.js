@@ -24,7 +24,7 @@ fetch("resultados.json")
         "All Inclusive F.C.": "./img/inclusive.webp",
         "Farola FC": "./img/farola.webp",
         "La Scaloneta": "./img/scaloneta.webp",
-        "Sala Azul Remix": "./img/generica.webp",
+        "Sala Azul Remix": "./img/azul.webp",
       };
 
       matches.forEach((match) => {

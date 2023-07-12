@@ -21,21 +21,42 @@
             },
             {
                 "teamA": "Whiscola F.C.C.",
-                "scoreA": "3",
-                "scoreB":"4", 
-                "teamB": "All Inclusive F.C.",
-                "time": "20:00",
-                "viewer": "Farola FC"
+                "scoreA": 3,
+                "scoreB":4, 
+                "teamB": "All Inclusive F.C."
+                
             },
             {
                 "teamA": "La Scaloneta",
-                "scoreA": "1",
-                "scoreB":"3",
-                "teamB": "Farola FC",
-                "time": "20:50",
-                "viewer": "Whiscola F.C.C."
+                "scoreA": 1,
+                "scoreB":3,
+                "teamB": "Farola FC"
+                
             }
         ],
         "date": "Fecha 1"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "La Scaloneta",
+                "scoreA": 3,
+                "scoreB":3,
+                "teamB": "Los Suplentes"
+            },
+            {
+                "teamA": "Sala Azul Remix",
+                "scoreA": 3,
+                "scoreB":6,
+                "teamB": "All Inclusive F.C."
+            },
+            {
+                "teamA": "Whiscola F.C.C.",
+                "scoreA": 2,
+                "scoreB":7,
+                "teamB": "La Naranja Geriatrica"
+            }
+        ],
+        "date": "Fecha 2"
     }
 ]

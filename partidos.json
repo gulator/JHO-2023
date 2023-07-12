@@ -1,35 +1,6 @@
 [
+      
     
-    
-    {
-        "schedule": [
-            {
-                "teamA": "La Scaloneta",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Los Suplentes",
-                "time": "20:00",
-                "viewer": "All Inclusive F.C."
-            },
-            {
-                "teamA": "Sala Azul Remix",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "All Inclusive F.C.",
-                "time": "20:50",
-                "viewer": "La Scaloneta"
-            },
-            {
-                "teamA": "Whiscola F.C.C.",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "La Naranja Geriatrica",
-                "time": "21:40",
-                "viewer": "Sala Azul Remix"
-            }
-        ],
-        "date": "Martes 11 de JuLio"
-    },
     {
         "schedule": [
             {
