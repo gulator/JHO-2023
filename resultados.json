@@ -55,6 +55,18 @@
                 "scoreA": 2,
                 "scoreB":7,
                 "teamB": "La Naranja Geriatrica"
+            },
+            {
+                "teamA": "Rejunte FC",
+                "scoreA": 5,
+                "scoreB": 3,
+                "teamB": "Pablo & Los Sextos"
+            },
+            {
+                "teamA": "Los PapiFootball",
+                "scoreA": 5,
+                "scoreB": 6,
+                "teamB": "Carlinga"
             }
         ],
         "date": "Fecha 2"

@@ -1,27 +1,5 @@
 [
-      
-    
-    {
-        "schedule": [
-            {
-                "teamA": "Rejunte FC",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Pablo & Los Sextos",
-                "time": "20:00",
-                "viewer": "Carlinga"
-            },
-            {
-                "teamA": "Los PapiFootball",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Carlinga",
-                "time": "20:50",
-                "viewer": "Rejunte FC"
-            }
-        ],
-        "date": "Jueves 13 de JuLio"
-    },
+     
     {
         "schedule": [
             {
