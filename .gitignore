@@ -13,4 +13,7 @@ new-csv-to-json.py
 object.py
 camisetas_resultado.png
 camisetas_resultado.webp
+node_modules
+package-lock.json
+package.json
 

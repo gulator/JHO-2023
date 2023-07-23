@@ -26,12 +26,12 @@
     {
         "team": "All Inclusive F.C.",
         "pts": "6",
-        "dg": "3",
+        "dg": "4",
         "pj": "2",
         "pg": "2",
         "pe": "0",
         "pp": "0",
-        "gf": "9",
+        "gf": "10",
         "ge": "6",
         "img": "./img/inclusive.webp"
     },
@@ -122,13 +122,13 @@
     {
         "team": "Sala Azul Remix",
         "pts": "0",
-        "dg": "-2",
+        "dg": "-3",
         "pj": "1",
         "pg": "0",
         "pe": "0",
         "pp": "1",
         "gf": "3",
-        "ge": "5",
+        "ge": "6",
         "img": "./img/azul.webp"
     }
 ]
