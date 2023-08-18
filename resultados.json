@@ -70,5 +70,76 @@
             }
         ],
         "date": "Fecha 2"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Sala Azul Remix",
+                "scoreA": 1,
+                "scoreB":2,
+                "teamB": "La Naranja Geriatrica"
+            },
+            {
+                "teamA": "Farola FC",
+                "scoreA": 2,
+                "scoreB":6,
+                "teamB": "Los Suplentes"
+            },
+            {
+                "teamA": "Los PapiFootball",
+                "scoreA": "-",
+                "scoreB": "-",
+                "teamB": "Rejunte FC"
+            },
+            {
+                "teamA": "Whiscola F.C.C.",
+                "scoreA": "-",
+                "scoreB": "-",
+                "teamB": "Pablo & Los Sextos"
+            },
+            {
+                "teamA": "La Scaloneta",
+                "scoreA": "-",
+                "scoreB": "-",
+                "teamB": "Carlinga"
+            }
+        ],
+        "date": "Fecha 3"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Farola FC",
+                "scoreA": 10,
+                "scoreB": 2,
+                "teamB": "Carlinga"
+            },
+            {
+                "teamA": "All Inclusive F.C.",
+                "scoreA": 3,
+                "scoreB": 2,
+                "teamB": "La Naranja Geriatrica"
+            },
+            {
+                "teamA": "Sala Azul Remix",
+                "scoreA": 5,
+                "scoreB": 6,
+                "teamB": "Pablo & Los Sextos"
+            },
+            {
+                "teamA": "Whiscola F.C.C.",
+                "scoreA": 5,
+                "scoreB": 0,
+                "teamB": "Los PapiFootball"
+            },
+            {
+                "teamA": "La Scaloneta",
+                "scoreA": 8,
+                "scoreB": 8,
+                "teamB": "Rejunte FC"
+            }
+            
+        ],
+        "date": "Fecha 4"
     }
 ]
