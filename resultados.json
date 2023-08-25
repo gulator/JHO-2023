@@ -141,5 +141,41 @@
             
         ],
         "date": "Fecha 4"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Los Suplentes",
+                "scoreA": 7,
+                "scoreB": 1,
+                "teamB": "Rejunte FC"
+            },
+            {
+                "teamA": "La Naranja Geriatrica",
+                "scoreA": 10,
+                "scoreB": 2,
+                "teamB": "Pablo & Los Sextos"
+            },
+            {
+                "teamA": "All Inclusive F.C.",
+                "scoreA": 6,
+                "scoreB": 3,
+                "teamB": "Los PapiFootball"
+            },
+            {
+                "teamA": "La Scaloneta",
+                "scoreA": 3,
+                "scoreB": 4,
+                "teamB": "Sala Azul Remix"
+            },
+            {
+                "teamA": "Farola FC",
+                "scoreA": 2,
+                "scoreB": 2,
+                "teamB": "Whiscola F.C.C."
+            }
+            
+        ],
+        "date": "Fecha 6"
     }
 ]

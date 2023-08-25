@@ -1,156 +1,5 @@
 [
-     
     
-    {
-        "schedule": [
-            {
-                "teamA": "La Scaloneta",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Whiscola F.C.C.",
-                "time": "20:00",
-                "viewer": "Los PapiFootball"
-            },
-            {
-                "teamA": "Sala Azul Remix",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Los PapiFootball",
-                "time": "20:50",
-                "viewer": "La Scaloneta"
-            },
-            {
-                "teamA": "Farola FC",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Rejunte FC",
-                "time": "21:40",
-                "viewer": "Sala Azul Remix"
-            }
-        ],
-        "date": "Martes 22 de Agosto"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "All Inclusive F.C.",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Pablo & Los Sextos",
-                "time": "20:00",
-                "viewer": "Carlinga"
-            },
-            {
-                "teamA": "Los Suplentes",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Carlinga",
-                "time": "20:50",
-                "viewer": "All Inclusive F.C."
-            }
-        ],
-        "date": "Jueves 25 de Agosto"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "Los Suplentes",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Rejunte FC",
-                "time": "20:00",
-                "viewer": "Pablo & Los Sextos"
-            },
-            {
-                "teamA": "La Naranja Geriatrica",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Pablo & Los Sextos",
-                "time": "20:50",
-                "viewer": "Los Suplentes"
-            },
-            {
-                "teamA": "All Inclusive F.C.",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Los PapiFootball",
-                "time": "21:40",
-                "viewer": "La Naranja Geriatrica"
-            }
-        ],
-        "date": "Martes 29 de Agosto"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "La Scaloneta",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Sala Azul Remix",
-                "time": "20:00",
-                "viewer": "Whiscola F.C.C."
-            },
-            {
-                "teamA": "Farola FC",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Whiscola F.C.C.",
-                "time": "20:50",
-                "viewer": "La Scaloneta"
-            }
-        ],
-        "date": "Jueves 31 de Agosto"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "Farola FC",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Sala Azul Remix",
-                "time": "20:00",
-                "viewer": "La Scaloneta"
-            },
-            {
-                "teamA": "All Inclusive F.C.",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "La Scaloneta",
-                "time": "20:50",
-                "viewer": "Farola FC"
-            },
-            {
-                "teamA": "Los Suplentes",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Whiscola F.C.C.",
-                "time": "21:40",
-                "viewer": "All Inclusive F.C."
-            }
-        ],
-        "date": "Martes 05 de Septiembre"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "La Naranja Geriatrica",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Los PapiFootball",
-                "time": "20:00",
-                "viewer": "Rejunte FC"
-            },
-            {
-                "teamA": "Carlinga",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Rejunte FC",
-                "time": "20:50",
-                "viewer": "La Naranja Geriatrica"
-            }
-        ],
-        "date": "Jueves 07 de Septiembre"
-    },
     {
         "schedule": [
             {
@@ -178,7 +27,7 @@
                 "viewer": "Pablo & Los Sextos"
             }
         ],
-        "date": "Martes 12 de Septiembre"
+        "date": "Martes 05 de Septiembre"
     },
     {
         "schedule": [
@@ -199,7 +48,7 @@
                 "viewer": "Farola FC"
             }
         ],
-        "date": "Jueves 14 de Septiembre"
+        "date": "Jueves 07 de Septiembre"
     },
     {
         "schedule": [
@@ -228,7 +77,7 @@
                 "viewer": "La Naranja Geriatrica"
             }
         ],
-        "date": "Martes 19 de Septiembre"
+        "date": "Martes 12 de Septiembre"
     },
     {
         "schedule": [
@@ -249,7 +98,7 @@
                 "viewer": "Pablo & Los Sextos"
             }
         ],
-        "date": "Jueves 21 de Septiembre"
+        "date": "Jueves 14 de Septiembre"
     },
     {
         "schedule": [
@@ -278,7 +127,7 @@
                 "viewer": "Los PapiFootball"
             }
         ],
-        "date": "Martes 26 de Septiembre"
+        "date": "Martes 19 de Septiembre"
     },
     {
         "schedule": [
@@ -299,7 +148,7 @@
                 "viewer": "Los Suplentes"
             }
         ],
-        "date": "Jueves 28 de Septiembre"
+        "date": "Jueves 21 de Septiembre"
     },
     {
         "schedule": [
@@ -328,7 +177,7 @@
                 "viewer": "Pablo & Los Sextos"
             }
         ],
-        "date": "Martes 03 de Octubre"
+        "date": "Martes 26 de Septiembre"
     },
     {
         "schedule": [
@@ -347,6 +196,56 @@
                 "teamB": "Sala Azul Remix",
                 "time": "20:50",
                 "viewer": "Los PapiFootball"
+            }
+        ],
+        "date": "Jueves 28 de Septiembre"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "La Scaloneta",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "Whiscola F.C.C.",
+                "time": "20:00",
+                "viewer": "Los PapiFootball"
+            },
+            {
+                "teamA": "Sala Azul Remix",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "Los PapiFootball",
+                "time": "20:50",
+                "viewer": "La Scaloneta"
+            },
+            {
+                "teamA": "Farola FC",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "Rejunte FC",
+                "time": "21:40",
+                "viewer": "Sala Azul Remix"
+            }
+        ],
+        "date": "Martes 03 de Octubre"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "All Inclusive F.C.",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "Pablo & Los Sextos",
+                "time": "20:00",
+                "viewer": "Carlinga"
+            },
+            {
+                "teamA": "Los Suplentes",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "Carlinga",
+                "time": "20:50",
+                "viewer": "All Inclusive F.C."
             }
         ],
         "date": "Jueves 05 de Octubre"
