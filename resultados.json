@@ -177,5 +177,23 @@
             
         ],
         "date": "Fecha 6"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Farola FC",
+                "scoreA": 4,
+                "scoreB": 3,
+                "teamB": "Sala Azul Remix"
+            },
+            {
+                "teamA": "All Inclusive F.C.",
+                "scoreA": 6,
+                "scoreB": 4,
+                "teamB": "La Scaloneta"
+            }
+            
+        ],
+        "date": "Fecha 7"
     }
 ]
