@@ -1,55 +1,6 @@
 [
     
-    {
-        "schedule": [
-            {
-                "teamA": "Carlinga",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Whiscola F.C.C.",
-                "time": "20:00",
-                "viewer": "Los PapiFootball"
-            },
-            {
-                "teamA": "Pablo & Los Sextos",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Los PapiFootball",
-                "time": "20:50",
-                "viewer": "Carlinga"
-            },
-            {
-                "teamA": "La Naranja Geriatrica",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "La Scaloneta",
-                "time": "21:40",
-                "viewer": "Pablo & Los Sextos"
-            }
-        ],
-        "date": "Martes 05 de Septiembre"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "Farola FC",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "All Inclusive F.C.",
-                "time": "20:00",
-                "viewer": "Sala Azul Remix"
-            },
-            {
-                "teamA": "Los Suplentes",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Sala Azul Remix",
-                "time": "20:50",
-                "viewer": "Farola FC"
-            }
-        ],
-        "date": "Jueves 07 de Septiembre"
-    },
+    
     {
         "schedule": [
             {

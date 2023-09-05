@@ -191,6 +191,24 @@
                 "scoreA": 6,
                 "scoreB": 4,
                 "teamB": "La Scaloneta"
+            },
+            {
+                "teamA": "Los Suplentes",
+                "scoreA": 5,
+                "scoreB": 1,
+                "teamB": "Whiscola F.C.C."
+            },
+            {
+                "teamA": "La Naranja Geriatrica",
+                "scoreA": 10,
+                "scoreB": 5,
+                "teamB": "Los PapiFootball"
+            },
+            {
+                "teamA": "Carlinga",
+                "scoreA": 4,
+                "scoreB": 8,
+                "teamB": "Rejunte FC"
             }
             
         ],
