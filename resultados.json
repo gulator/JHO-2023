@@ -213,5 +213,29 @@
             
         ],
         "date": "Fecha 7"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Carlinga",
+                "scoreA": 3,
+                "scoreB": 4,
+                "teamB": "Whiscola F.C.C."
+            },
+            {
+                "teamA": "Pablo & Los Sextos",
+                "scoreA": 3,
+                "scoreB": 1,
+                "teamB": "Los PapiFootball"
+            },
+            {
+                "teamA": "La Naranja Geriatrica",
+                "scoreA": 12,
+                "scoreB": 4,
+                "teamB": "La Scaloneta"
+            }
+            
+        ],
+        "date": "Fecha 8"
     }
 ]

@@ -1,56 +1,7 @@
 [
     
     
-    {
-        "schedule": [
-            {
-                "teamA": "Los Suplentes",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "All Inclusive F.C.",
-                "time": "20:00",
-                "viewer": "Farola FC"
-            },
-            {
-                "teamA": "La Naranja Geriatrica",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Farola FC",
-                "time": "20:50",
-                "viewer": "Los Suplentes"
-            },
-            {
-                "teamA": "Carlinga",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Sala Azul Remix",
-                "time": "21:40",
-                "viewer": "La Naranja Geriatrica"
-            }
-        ],
-        "date": "Martes 12 de Septiembre"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "Pablo & Los Sextos",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "La Scaloneta",
-                "time": "20:00",
-                "viewer": "Whiscola F.C.C."
-            },
-            {
-                "teamA": "Rejunte FC",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Whiscola F.C.C.",
-                "time": "20:50",
-                "viewer": "Pablo & Los Sextos"
-            }
-        ],
-        "date": "Jueves 14 de Septiembre"
-    },
+    
     {
         "schedule": [
             {
