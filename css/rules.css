@@ -31,11 +31,16 @@ li{
 }
 
 .header-reglamento{
-    position: absolute;
-    top: 0;
+    /* position: absolute;
+    top: 0; */
     width: 100vw;
     height: 200px;
 }
+.nav-reglamento ul{
+    display: flex;
+    flex-wrap: wrap;
+}
 .header-reglamento li{
     list-style: none;
+    margin: 5px
 }

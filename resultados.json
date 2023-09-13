@@ -237,5 +237,29 @@
             
         ],
         "date": "Fecha 8"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Los Suplentes",
+                "scoreA": 0,
+                "scoreB": 2,
+                "teamB": "All Inclusive F.C."
+            },
+            {
+                "teamA": "La Naranja Geriatrica",
+                "scoreA": 3,
+                "scoreB": 3,
+                "teamB": "Farola FC"
+            },
+            {
+                "teamA": "Carlinga",
+                "scoreA": 2,
+                "scoreB": 2,
+                "teamB": "Sala Azul Remix"
+            }
+            
+        ],
+        "date": "Fecha 9"
     }
 ]
