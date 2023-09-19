@@ -1,57 +1,5 @@
 [
     
-    
-    
-    {
-        "schedule": [
-            {
-                "teamA": "Rejunte FC",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Sala Azul Remix",
-                "time": "20:00",
-                "viewer": "La Scaloneta"
-            },
-            {
-                "teamA": "Los PapiFootball",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "La Scaloneta",
-                "time": "20:50",
-                "viewer": "Rejunte FC"
-            },
-            {
-                "teamA": "Pablo & Los Sextos",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "Farola FC",
-                "time": "21:40",
-                "viewer": "Los PapiFootball"
-            }
-        ],
-        "date": "Martes 19 de Septiembre"
-    },
-    {
-        "schedule": [
-            {
-                "teamA": "Los Suplentes",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "La Naranja Geriatrica",
-                "time": "20:00",
-                "viewer": "All Inclusive F.C."
-            },
-            {
-                "teamA": "Carlinga",
-                "scoreA": "",
-                "scoreB":"",
-                "teamB": "All Inclusive F.C.",
-                "time": "20:50",
-                "viewer": "Los Suplentes"
-            }
-        ],
-        "date": "Jueves 21 de Septiembre"
-    },
     {
         "schedule": [
             {
@@ -105,6 +53,56 @@
     {
         "schedule": [
             {
+                "teamA": "Los PapiFootball",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "Rejunte FC",
+                "time": "20:00",
+                "viewer": "Pablo & Los Sextos"
+            },
+            {
+                "teamA": "Whiscola F.C.C.",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "Pablo & Los Sextos",
+                "time": "20:50",
+                "viewer": "Los PapiFootball"
+            },
+            {
+                "teamA": "La Scaloneta",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "Carlinga",
+                "time": "21:40",
+                "viewer": "Whiscola F.C.C."
+            }
+        ],
+        "date": "Martes 03 de Octubre"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Farola FC",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "All Inclusive F.C.",
+                "time": "20:00",
+                "viewer": "Sala Azul Remix"
+            },
+            {
+                "teamA": "Los Suplentes",
+                "scoreA": "",
+                "scoreB":"",
+                "teamB": "Sala Azul Remix",
+                "time": "20:50",
+                "viewer": "Farola FC"
+            }
+        ],
+        "date": "Jueves 05 de Octubre"
+    },
+    {
+        "schedule": [
+            {
                 "teamA": "La Scaloneta",
                 "scoreA": "",
                 "scoreB":"",
@@ -129,7 +127,7 @@
                 "viewer": "Sala Azul Remix"
             }
         ],
-        "date": "Martes 03 de Octubre"
+        "date": "Martes 10 de Octubre"
     },
     {
         "schedule": [
@@ -150,6 +148,6 @@
                 "viewer": "All Inclusive F.C."
             }
         ],
-        "date": "Jueves 05 de Octubre"
+        "date": "Jueves 12 de Octubre"
     }
 ]

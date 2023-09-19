@@ -257,6 +257,18 @@
                 "scoreA": 2,
                 "scoreB": 2,
                 "teamB": "Sala Azul Remix"
+            },
+            {
+                "teamA": "Pablo & Los Sextos",
+                "scoreA": 5,
+                "scoreB": 9,
+                "teamB": "La Scaloneta"
+            },
+            {
+                "teamA": "Rejunte FC",
+                "scoreA": 5,
+                "scoreB": 2,
+                "teamB": "Whiscola F.C.C."
             }
             
         ],
