@@ -273,5 +273,77 @@
             
         ],
         "date": "Fecha 9"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Rejunte FC",
+                "scoreA": 4,
+                "scoreB": 2,
+                "teamB": "Sala Azul Remix"
+            },
+            {
+                "teamA": "Los PapiFootball",
+                "scoreA": 4,
+                "scoreB": 8,
+                "teamB": "La Scaloneta"
+            },
+            {
+                "teamA": "Pablo & Los Sextos",
+                "scoreA": 1,
+                "scoreB": 3,
+                "teamB": "Farola FC"
+            },
+            {
+                "teamA": "Los Suplentes",
+                "scoreA": 1,
+                "scoreB": 4,
+                "teamB": "La Naranja Geriatrica"
+            },
+            {
+                "teamA": "Carlinga",
+                "scoreA": 3,
+                "scoreB": 11,
+                "teamB": "All Inclusive F.C."
+            }
+            
+        ],
+        "date": "Fecha 10"
+    },
+    {
+        "schedule": [
+            {
+                "teamA": "Carlinga",
+                "scoreA": 1,
+                "scoreB": 4,
+                "teamB": "La Naranja Geriatrica"
+            },
+            {
+                "teamA": "Pablo & Los Sextos",
+                "scoreA": 2,
+                "scoreB": 3,
+                "teamB": "Los Suplentes"
+            },
+            {
+                "teamA": "Rejunte FC",
+                "scoreA": 2,
+                "scoreB": 6,
+                "teamB": "All Inclusive F.C."
+            },
+            {
+                "teamA": "Los PapiFootball",
+                "scoreA": "-",
+                "scoreB": "-",
+                "teamB": "Farola FC"
+            },
+            {
+                "teamA": "Whiscola F.C.C.",
+                "scoreA": "-",
+                "scoreB": "-",
+                "teamB": "Sala Azul Remix"
+            }
+            
+        ],
+        "date": "Fecha 11"
     }
 ]
