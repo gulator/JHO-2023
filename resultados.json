@@ -332,14 +332,14 @@
             },
             {
                 "teamA": "Los PapiFootball",
-                "scoreA": "-",
-                "scoreB": "-",
+                "scoreA": 1,
+                "scoreB": 8,
                 "teamB": "Farola FC"
             },
             {
                 "teamA": "Whiscola F.C.C.",
-                "scoreA": "-",
-                "scoreB": "-",
+                "scoreA": 3,
+                "scoreB": 7,
                 "teamB": "Sala Azul Remix"
             }
             
